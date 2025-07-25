@@ -1,6 +1,6 @@
 # 📈 Berkshire Hathaway RAG Application — Powered by Mastra 🚀
 
-This project is a **Retrieval-Augmented Generation (RAG)** application built using the **Mastra framework** to analyze and answer questions based on **Berkshire Hathaway Shareholder Letters**. It leverages **OpenAI GPT-4o**, **pgvector (PostgreSQL)** for vector storage, and **Mastra’s MDocument + Agent + Workflow pipeline** for document ingestion, embedding, and intelligent response generation.
+This project is a **Retrieval-Augmented Generation (RAG)** application built using the **Mastra framework** to analyze and answer questions based on **Berkshire Hathaway Shareholder Letters**. It leverages **RAG Pipeline** for document ingestion, embedding, and intelligent response generation.
 
 ---
 
